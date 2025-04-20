@@ -1,16 +1,13 @@
-## Hi there 👋
+# CIS4340 HW03 Project Summary
 
-<!--
-**lizziebarnum/lizziebarnum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Scraper Choice
 
-Here are some ideas to get you started:
+## Prompts Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Strategy Employed
+
+## Python Development Tools Used
+
+## Plan for Developing Functions
+
+## Difficulties
