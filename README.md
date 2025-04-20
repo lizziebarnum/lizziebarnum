@@ -17,4 +17,4 @@ I developed this project using Visual Studio Code (VS Code) as my primary IDE. I
 ## Difficulties
 I faced a number of difficulties while conducting this project:
 - Setting up BeautifulSoup. I had never used this tool before so it took me a while to get used to it.
-- Dealing with different formats. It took me a while to figure out how I could parse different tables that had different columns and formats
+- Dealing with different formats. It took me a while to figure out how I could parse different tables that had different columns and didn't line up exactly.
